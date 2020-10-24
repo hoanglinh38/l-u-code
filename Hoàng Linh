@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="thuchanhbuoi2.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="cau1">
+        <h1>Miền Bắc không còn ca bệnh Covid-19 diễn biến nặng</h1>
+        <img src="windows-10.jpg">
+    <p><b>Đến thời điểm này, tất cả bệnh nhân Covid-19 nặng nhất đang điều trị 
+        tại Bệnh viện Bệnh Nhiệt đới trung ương đều đã hồi phục tốt, không 
+        có trường hợp nào phải thở oxi...
+    </b></p>
+    <p style="color: rgb(179, 169, 169);">Theo thông tin từ Bệnh viện Bệnh Nhiệt đới Trung ương, cả 2 bệnh nhân Covid-19 <br>
+        nặng nhất trong giai đoạn mới của dịch điều trị tại Viện này hiện đều đã hồi 
+        phục tốt, sắp được xuất viện. Cụ thể:
+    </p>
+    <button>Read More</button>
+    </div>
+    <div class="cau2">
+        <hr width="1000px">
+        <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><b>Album</b></p>
+        <div class="cau2_image">
+        <img src="hinhnen1.jpg">
+        <img src="hinhnen2.jpg">
+        <img src="hinhnen6.jpg">
+        <img src="hinhnen4.jpg">
+    </div>
+    <div class="cau3">
+        <h1 align="center" style="font-family: Arial, Helvetica, sans-serif">MY WEBSITE</h1>
+        <hr width="80px" color="aqua" size="3px">
+        <div class="cau3_menu">
+            <ul>
+                <li><a href="#" style="color: aqua;">All</a></li>
+                <li><a href="#">Web App</a></li>
+                <li><a href="#">Ul/Ux</a></li>
+                <li><a href="#">Grapphics Design</a></li>
+                <li><a href="#">Mobile App</a></li>
+                <li><a href="#">Branding</a></li>
+                <li><a href="#">Marketing</a></li>
+            </ul>
+        </div>
+        <div class="cau3_images">
+            <img src="hinhnen1.jpg">
+            <img src="hinhnen4.jpg">
+            <img src="hinhnen6.jpg">
+            <img src="hinhnen2.jpg">
+            <img src="hinhnen4.jpg">
+            <img src="hinhnen6.jpg">
+        </div>
+    </div>
+    <div class="cau4">
+        <div class="icon-bar">
+            <a href="#"><i class="fa fa-address-book"><p class="number">3297</p><p class="text">Foreign Follower</p></i></a>
+            <a href="#"><i class="fa fa-android"><p class="number">3700</p><p class="text">Students Enrolled</p></i>
+            <a href="#"><i class="fa fa-arrow-circle-up"><p class="number">5034</p><p class="text">Classes Complete</p></i></a>
+            <a href="#"><i class="fa fa-university"><p class="number">1080</p><p class="text">Certified Teachers</p></i></a>
+        </div>
+    </div>
+    <div class="cau5">
+        <div class="cau5_1">
+            <div class="cau5_2">
+                <div class="cau5_icon">
+                    <i class="fa fa-leaf"></i>
+                </div>
+                <p class="text1">UI/UX Design</p>
+                <p class="text2">Đến nay đã có gần 40 trường đại học Việt Nam va Asean tự nguyện tham gia</p>
+            </div>
+            <div class="cau5_2">
+                <div class="cau5_icon">
+                    <i class="fa fa-television"></i>
+                </div>
+                <p class="text1">Web Development</p>
+                <p class="text2">Đến nay đã có gần 40 trường đại học Việt Nam va Asean tự nguyện tham gia</p>
+            </div>
+            <div class="cau5_2">
+                <div class="cau5_icon">
+                    <i class="fa fa-suitcase"></i>
+                </div>
+                <p class="text1">Brading</p>
+                <p class="text2">Đến nay đã có gần 40 trường đại học Việt Nam va Asean tự nguyện tham gia</p>
+            </div>
+        </div>
+        <div class="cau5_1">
+            <div class="cau5_2">
+                <div class="cau5_icon">
+                    <i class="fa fa-camera-retro"></i>
+                </div>
+                <p class="text1">Photography</p>
+                <p class="text2">Đến nay đã có gần 40 trường đại học Việt Nam va Asean tự nguyện tham gia</p>
+            </div>
+            <div class="cau5_2">
+                <div class="cau5_icon">
+                    <i class="fa fa-android"></i>
+                </div>
+                <p class="text1">App Development</p>
+                <p  class="text2">Đến nay đã có gần 40 trường đại học Việt Nam va Asean tự nguyện tham gia</p>
+            </div>
+            <div class="cau5_2">
+                <div class="cau5_icon">
+                    <i class="fa fa-line-chart"></i>
+                </div>
+                <p class="text1">Digital Marketing</p>
+                <p class="text2">Đến nay đã có gần 40 trường đại học Việt Nam va Asean tự nguyện tham gia</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
